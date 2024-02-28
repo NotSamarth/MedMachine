@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"SERVO1, SERVO3, SERVO2, SERVO4",4," Micro Servo"
+"U1",1,"MCP23008-based, 32 LCD 16 x 2 (I2C)"
+"KEYPAD1",1," Keypad 4x4"
+"U2",1," Arduino Uno R3"
